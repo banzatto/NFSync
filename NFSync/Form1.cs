@@ -216,6 +216,8 @@ namespace NFSync
             }
         }
 
+
+
         public bool CopiaParaDestino(String nomeArq)
         {
             bool ret = false;
